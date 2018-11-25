@@ -5,4 +5,5 @@ num = 40
 num = 50
 num = 66
 num = 60
+num = 70
 
